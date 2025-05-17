@@ -6,7 +6,19 @@
     <title>Document</title>
 </head>
 <body>
-   <label form="firstname">firstname</lalbel>
-    <input for="text" firstname>
+    <form>
+    <label for="firstname">firstname</label>
+    <input type="text" name="fullname">
+    <bl>
+    <label for="email">email</label>
+    <input type="email" name="email">
+    <bl>
+    <label for="password">password</label>
+    <input type="password" name="password">
+    <bl>
+    <label for="favfood">favfood</label> 
+    <input type="text" name="favfood">
+    <label submit></label>
+    </form>
 </body>
 </html>
