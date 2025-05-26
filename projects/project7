@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         body{
+            /*background-image:https://wallpaperaccess.com/full/2548059.jpg;*/
+            /*background-attachment:fixed;*/
+         }
+         @keyframe adanimation{
+            0%{
+                background-color:rgb(232, 6, 6);
+            }
+            50%{
+                background-color: blue;
+            }
+            75%{
+                background-color: green;
+            }
+         }
+         .adclass2{
+            width:500pixels;
+            height:500pixels;
+            background-color:rgb(232, 6, 6);
+            animation:adanimation;
+            animation duration:4sec;
+
+         }
+    </style>
+    
+     
+</head>
+<body>
+     <p class='adclass2'> My name is <b>Aaryavrat</b>, I study in <u>Dimensions</u> international college as a student
+         in ,<i>secondary 3</i>. My hobbies are <u>football, fortnite, table tennis, and coding</u>.
+ </p> 
+</body>
