@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .class1{
+            color:aqua;
+            font-size:32px;
+            font-weight:600;
+        }
+        .class2{
+            text-decoration:underline;
+        }
+        .class3{
+            text-transform: capitalize;
+        }
+        .class4{
+            text-shadow: 10px 8px 3px blanchedalmond;
+        }
+        .class5{
+width:40px;
+length:80px;
+padding:20px;
+box-shadow: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <p class="class-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, culpa?</p>
+    <p class="class-2">Lorem, ipsum.</p>
+    <p class="class-3">Lorem ipsum dolor sit amet consectetur.</p>
+    <p class="class-4">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+    <p class="class-5">Lorem ipsum dolor sit amet consectetur.</p>
+
+</body>
+</html>
