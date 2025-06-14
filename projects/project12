@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .class1{
+            position:static;
+        }
+        .class2{
+            position:fixed;
+            top:300px;
+        }
+        .class3{
+            position:relative;
+            top:80px;
+            left:120px
+        }
+        .class4{
+            position:sticky;
+            top:100px;
+        }
+        .class6{
+            position:relative;
+        }
+        .class5{
+        position:absolute;
+        top:50px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <p class="class1">Lorem ipsum dolor sit amet.</p>
+    <p class="class2">Lorem ipsum dolor sit amet.</p>
+    <p class="class3">Lorem ipsum dolor sit amet.</p>
+    <p class="class4">Lorem ipsum dolor sit amet.</p>
+    <div class="class6">
+        <p class="class5">Lorem ipsum dolor sit.</p>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</body>
+</html>
