@@ -26,6 +26,14 @@
     apis-minimalismo-desenho-plano-simples-gratis-vetor.jpg" alt="sketching"
     <p class="text-success"><h4>sketching is my hobby</h4></p>
   </div>
+   <div class="row">
+        <ul class="pagination">
+          <li class="page-item"><a class="page-link" href="#"">previous</a></li>
+         <li class="page-item"><a class="page-link" href="#""></a>1</li> 
+         <li class="page-item"><a class="page-link" href="#""></a>2</li>
+           <li class="page-item"><a class="page-link" href="#""></a>next</li>
+        </ul>
+    </div>
   
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
