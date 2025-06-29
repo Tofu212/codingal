@@ -10,7 +10,7 @@
     <div class="container-row">
         <div class="row gap-5">
             <div class="card col-4">
-                <img src="https://cdn.mos.cms.futurecdn.net/AYp2U5a56RRSNuzy5hqESZ-1621-80.jpg" class="card-img-top" alt="...">
+                <img src="https://wallpapercave.com/wp/wp6803047.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Play Station 5</h5>
     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione laudantium fugit repellendus.</p>
@@ -19,10 +19,10 @@
             </div>
         </div>
     </div>
-      <div class="container">
+      <div class="container-row">
         <div class="row gap-5">
             <div class="card col-4">
-                <img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/products/hardware/nintendo-switch-red-blue/110478-nintendo-switch-neon-blue-neon-red-front-screen-on-1200x675" class="card-img-top" alt="...">
+                <img src="https://rukminim1.flixcart.com/image/1664/1664/gamingconsole/g/a/t/playstation-4-ps4-500-sony-dualshock-4-controller-original-imadrhehpvvetkgf.jpeg?q=90" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Play Station 4</h5>
     <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
