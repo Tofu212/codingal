@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Star Academy</title>
+
+    <style>
+button:hover .stars {
+    display: block;
+    filter: drop-shadow(0 0 10 px
+    #fffdef);
+}
+
+
+    </style>
+</head>
+<body>
+   <div clas="button"><button>sign in</button></div>
+</body>
+</html>

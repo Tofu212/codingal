@@ -15,5 +15,5 @@ console.log("the sum is", sum)
  console.log("the diff is", diff)
  
  var div = 80 / 2
- Console.log("the div is", 40)
+ Console.log("the div is", div)
 
