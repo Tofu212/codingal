@@ -1,0 +1,6 @@
+function multiplyNumbers(a, b, c){
+    var result = a * b * c
+    return result
+}
+var X = multiplyNumbers(6, 5, 10)
+console.log("the multiplication of result of x, y,  and z is", X )
