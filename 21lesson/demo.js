@@ -45,5 +45,5 @@ switch (day) {
         console.log("wendnesday")
         break;
     default:
-        console.log("oops, provide suitable day")
+        console.log("please, provide day")
 }
