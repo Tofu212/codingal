@@ -1,0 +1,12 @@
+var a = [43, 32, 97, 54, 22, 36]
+
+for(i = 0; i < a.length; i++) {
+    console.log(a[i])
+}
+
+function sum(a, b, c){
+    return a+b+c
+}
+
+var result = sum(1, 2, 4)
+console.log(result)
