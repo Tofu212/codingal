@@ -1,0 +1,7 @@
+var a = ['Tokyo', 'Osaka', 'Fukoka', 'Okinawa', 'Shibuya']
+
+console.log(ajoin("."))
+console.log(a[5])
+console.log(a[0])
+console.log(a.pop())
+console.log(a)
