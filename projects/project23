@@ -1,0 +1,12 @@
+var a = [32, 64, 72, 77, 09]
+
+console.log(a[0])
+console.log(a[3])
+console.log(a.length)
+
+function sum(a, b, c){
+    return a+b+c
+}
+
+var result = sum(1, 5, 3)
+console.log(result)
