@@ -1,0 +1,6 @@
+let i = 0
+while(i<100){
+    console.log(Math.random())
+    i=i+1
+}
+
