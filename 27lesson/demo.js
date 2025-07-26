@@ -8,5 +8,5 @@ arr.sort(function(a,b){return a-b})
 
 console.log(arr)
 
-var b = arr.map(e1=>el*2)
+var b = arr.map(e1=>el * 2)
 console.log(b)

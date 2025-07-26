@@ -1,0 +1,10 @@
+var arr = [1,2,3,4,5,10,9,8,7,6,10,20,30,40,50]
+
+var x = arr.map(e1=>el / 10)
+console.log(x)
+
+arr.sort((a,b)=>a - b)
+console.log(arr)
+
+arr.sort((a,b)=>b - a)
+console.log(arr)
