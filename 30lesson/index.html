@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Milk Delivery Form</h1>
+    <form name="myform" onsubmit="validateform()">
+        <label for="name">Full Name</label>
+        <input id="name" name="name" required>
+
+        <label for="phone">Phone number</label>
+        <input id="phone" type="text" name="phone" required>
+
+        <label for="address">Address</label>
+        <input id="address" name="address" type="text"required>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        function validateForm(){
+            var x = document.forms['myform']['name'].value
+            if (x == "xyz" || x == "abc" || x == "123"){
+                alert("please give proper name")
+                return false
+            }
+        }
+    </script>
+</body>
+</html>
