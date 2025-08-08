@@ -1,0 +1,6 @@
+
+console.log("Type in password")
+
+console.log("Verifing password")
+
+setTimeout(() => console.log("Password is incorrect"), 5000)
