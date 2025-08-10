@@ -8,19 +8,12 @@
 <body>
     <h1> Milk Delivery Form</h1>
     <form name="myform" onsubmit="validateform()">
-        <label for="name">Full Name</label>
-        <input id="name" name="name" required>
-
         <label for="age">age</label>
         <input id="age" type="text" name="age" required>
 
-        <label for="address">Address</label>
-        <input id="address" name="address" type="text"required>
 
-        <input type="submit" value="Submit">
-    </form>
 
-    <script>
+<script>
         function validateForm(){
             var x = document.forms['myform']['age'].value
             if (x == "1" || x == "2" || x == "3"|| x == "4"|| x == "5"|| x == "6"|| x == "7"|| x == "8"|| x == "9"|| x == "10"
@@ -31,5 +24,3 @@
             }
         }
     </script>
-</body>
-</html>
