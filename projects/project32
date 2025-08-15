@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dominos.sg.com</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+ <header class="bg-dark">
+    <nav class="container d-flex p-3 justify-content-between align-items-center">
+        <a href="#" class="d-flex align-items-center text-white text-decoration-none">
+            <img src="https://www.citypng.com/public/uploads/preview/hd-dominos-pizza-logo-transparent-background-701751694708993e42gflqf95.png" alt="logo" height="40" class="me-2 img-fluid" style="height: 40px; width: auto;"
+                 alt="logo" height="40" class="me-2">
+            <span class="fs-4">Dominos</span>
+        </a>
+
+        <ul class="d-flex gap-5 list-unstyled m-0">
+            <li><a href="#" class="text-white text-decoration-none">About us</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Contact us</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Join us</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Our locations</a></li>
+        </ul>
+    </nav>
+</header>
+carousel
+
+
+
+    <div id="carouselExampleDark" class="carousel carousel-dark slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+
+        <div class="carousel-inner width:100px length:500px">
+            <div class="carousel-item active" data-bs-interval="100">
+                <img src="https://www.dominos.com.sg/ManagedAssets/SG/combo/844297/SG_844297_en_MenuImage_15119.jpg?v-584572975"
+                    class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+
+                </div>
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3joQzDq_znl311g5KGgRqOVqi6TIHt6VhI6v3M4rTHAanxdP8f6ih3YuKCPxvkr3JPPc&usqp=CAU" class="d-block w-100"
+                    alt="...">
+                <div class="carousel-caption d-none d-md-block">
+
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="https://www.google.com/search?q=domino%27s+deals&sca_esv=10f4dc90a0b84bd0&udm=2&biw=1280&bih=712&sxsrf=AE3TifP9lxuI2YzJBhRVOADnrAKiO_ZoeA%3A1755270844138&ei=vE6faPuRCOiHjuMPp9PMuQE&ved=0ahUKEwj735i5jY2PAxXog2MGHacpMxcQ4dUDCBE&uact=5&oq=domino%27s+deals&gs_lp=EgNpbWciDmRvbWlubydzIGRlYWxzMggQABiABBivBjIFEAAYgAQyCBAAGIAEGK8GMggQABiABBivBjIIEAAYgAQYrwYyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEifIFDaB1jMG3ABeACQAQCYAcQBoAHVCaoBAzUuNbgBA8gBAPgBAZgCC6ACuwrCAgcQIxgnGMkCwgINEAAYgAQYQxiKBRivBsICBhAAGAcYHsICChAAGIAEGEMYigXCAggQABgHGAoYHpgDAIgGAZIHBTQuNi4xoAfZYLIHBTMuNi4xuAetCsIHBTItNi41yAda&sclient=img#vhid=GR1sFMZnDKy-wM&vssid=mosaic" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
