@@ -1,0 +1,22 @@
+.calculator{
+    background-color: white;
+    width: 420px;
+    margin: 120px auto 0 auto;
+    padding: 20px;
+}
+.keyboard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.display{
+    height: 180px;
+}
+
+.operator, .number{
+   width: 90px;
+   padding:20px;
+}
