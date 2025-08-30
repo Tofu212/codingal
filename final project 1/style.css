@@ -13,10 +13,11 @@
 }
 
 .display{
-    height: 180px;
+    height: 100px;
+    font-size: 30px;
 }
 
 .operator, .number{
-   width: 90px;
+   width: 80px;
    padding:20px;
 }
